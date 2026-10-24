@@ -1,0 +1,22 @@
+{
+ "schema": 1,
+ "updated_at": "2026-10-24T00:55:14Z",
+ "sources": {
+  "Lz": {
+   "domains": [
+    "https://cj.lziapi.com/"
+   ]
+  },
+  "Bf": {
+   "domains": [
+    "https://bfzyapi.com/",
+    "https://app.bfzyapi.com/"
+   ]
+  },
+  "Md": {
+   "domains": [
+    "https://www.mdzyapi.com/"
+   ]
+  }
+ }
+}
